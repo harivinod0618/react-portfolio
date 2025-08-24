@@ -101,7 +101,7 @@ export default function Hero() {
           animate={{ opacity: 1 }}
           transition={{ delay: 0.6, duration: 0.8 }}
         >
-          Final-year B.Tech Computer Science student | MERN Stack Developer | Machine Learning Enthusiast
+          Final-year B.Tech Computer Science student | Product Developer | Machine Learning Enthusiast
         </motion.p>
 
         <motion.div

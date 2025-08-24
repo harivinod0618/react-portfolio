@@ -4,7 +4,7 @@ import { FiExternalLink, FiGithub } from 'react-icons/fi';
 
 const data = [
   {
-    title: 'Online Muscic Streaming',
+    title: 'Online Music Streaming',
     desc: 'A Online Music PaltForm for better user experience',
     tech: ['MongoDB', 'Express', 'React', 'Node'],
     demo: '#',
