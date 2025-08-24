@@ -5,7 +5,7 @@ import { FiExternalLink, FiGithub } from 'react-icons/fi';
 const data = [
   {
     title: 'Online Music Streaming',
-    desc: 'A Online Music PaltForm for better user experience',
+    desc: 'A Online Music PlatForm for better user experience',
     tech: ['MongoDB', 'Express', 'React', 'Node'],
     demo: '#',
     repo: 'https://github.com/harivinod0618/Online-Music-Streaming',
@@ -19,7 +19,7 @@ const data = [
   },
   {
     title: 'ML Project - Future Crime Rate Prediction',
-    desc: 'A ML model that prodicts are where there is high chance of increase crime',
+    desc: ' ML model that predicts areas where there is high chance of increase crime',
     tech: ['Python', 'ML models'],
     demo: '#',
     repo: 'https://github.com/harivinod0618/IDP-project',
